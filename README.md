@@ -1,21 +1,21 @@
 # Ave_Caesar_Cipher
 Caesar's cipher encoder / decoder / brute forcer
-`
+```
       .o.       oooooo     oooo oooooooooooo                                           
-     .888.       `888.     .8'  `888'     `8                                           
-    .8"888.       `888.   .8'    888                                                   
-   .8' `888.       `888. .8'     888oooo8                                              
-  .88ooo8888.       `888.8'      888    "                                              
- .8'     `888.       `888'       888       o                                           
-o88o     o8888o       `8'       o888ooooood8                                           
+     .888.       '888.     .8'  '888'     '8                                           
+    .8"888.       '888.   .8'    888                                                   
+   .8' '888.       '888. .8'     888oooo8                                              
+  .88ooo8888.       '888.8'      888    "                                              
+ .8'     '888.       '888'       888       o                                           
+o88o     o8888o       '8'       o888ooooood8                                           
   .oooooo.         .o.       oooooooooooo  .oooooo..o       .o.       ooooooooo.   .o. 
- d8P'  `Y8b       .888.      `888'     `8 d8P'    `Y8      .888.      `888   `Y88. 888 
+ d8P'  'Y8b       .888.      '888'     '8 d8P'    'Y8      .888.      '888   'Y88. 888 
 888              .8"888.      888         Y88bo.          .8"888.      888   .d88' 888 
-888             .8' `888.     888oooo8     `"Y8888o.     .8' `888.     888ooo88P'  Y8P 
-888            .88ooo8888.    888    "         `"Y88b   .88ooo8888.    888`88b.    `8' 
-`88b    ooo   .8'     `888.   888       o oo     .d8P  .8'     `888.   888  `88b.  .o. 
- `Y8bood8P'  o88o     o8888o o888ooooood8 8""88888P'  o88o     o8888o o888o  o888o Y8P 
-`
+888             .8' '888.     888oooo8     '"Y8888o.     .8' '888.     888ooo88P'  Y8P 
+888            .88ooo8888.    888    "         '"Y88b   .88ooo8888.    888'88b.    '8' 
+'88b    ooo   .8'     '888.   888       o oo     .d8P  .8'     '888.   888  '88b.  .o. 
+ 'Y8bood8P'  o88o     o8888o o888ooooood8 8""88888P'  o88o     o8888o o888o  o888o Y8P 
+```
 
 ## Introduction
 
