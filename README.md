@@ -32,20 +32,20 @@ Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
 
 ## Features:
 
-There are 3 options to choose from:
-    1. Decode a message when you know the shift number.
-    2. Brute force decoding: if you don't know the shift number, the script will attempt all possible shifts for you.
-    3. Encode a message by providing the desired shift number.
+There are 3 options to choose from:/n
+    1. Decode a message when you know the shift number./n
+    2. Brute force decoding: if you don't know the shift number, the script will attempt all possible shifts for you./n
+    3. Encode a message by providing the desired shift number./n
 
 ## How to Use
 
-Run the script using python.
-You'll be greeted with a choice of three actions:
-    Decode message (I know shift)
-    Decode message (I don't know the shift and I need to brute force it!)
-    Encode message
-
-Depending on your choice, you might be prompted to input the message and possibly the shift number.
-The script will then display the encoded or decoded message based on your input.
+Run the script using python./n
+You'll be greeted with a choice of three actions:/n
+    Decode message (I know shift)/n
+    Decode message (I don't know the shift and I need to brute force it!)/n
+    Encode message/n
+/n
+Depending on your choice, you might be prompted to input the message and possibly the shift number./n
+The script will then display the encoded or decoded message based on your input./n
 
 Thank you for using and testing the script!
