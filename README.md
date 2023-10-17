@@ -9,10 +9,10 @@ For example, with a **shift** of 1, 'A' would be replaced by 'B', 'B' would beco
 ![Caesar_cipher_left_shift_of_3 svg](https://github.com/przemokam/Ave_Caesar_Cipher/assets/124211669/776eeafa-f382-4516-9b1f-318dfbc9d832)
 
 Example:
-```
+`
 Plaintext:  THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
 Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
-```
+`
 
 ## Features:
 
