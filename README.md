@@ -1,6 +1,6 @@
 # Ave_Caesar_Cipher
 Caesar's cipher encoder / decoder / brute forcer
-```
+`
       .o.       oooooo     oooo oooooooooooo                                           
      .888.       `888.     .8'  `888'     `8                                           
     .8"888.       `888.   .8'    888                                                   
@@ -15,7 +15,7 @@ o88o     o8888o       `8'       o888ooooood8
 888            .88ooo8888.    888    "         `"Y88b   .88ooo8888.    888`88b.    `8' 
 `88b    ooo   .8'     `888.   888       o oo     .d8P  .8'     `888.   888  `88b.  .o. 
  `Y8bood8P'  o88o     o8888o o888ooooood8 8""88888P'  o88o     o8888o o888o  o888o Y8P 
-```
+`
 
 ## Introduction
 
@@ -25,10 +25,10 @@ For example, with a **shift** of 1, 'A' would be replaced by 'B', 'B' would beco
 ![Caesar_cipher_left_shift_of_3 svg](https://github.com/przemokam/Ave_Caesar_Cipher/assets/124211669/776eeafa-f382-4516-9b1f-318dfbc9d832)
 
 Example:
-`
+```
 Plaintext:  THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
 Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
-`
+```
 
 ## Features:
 
