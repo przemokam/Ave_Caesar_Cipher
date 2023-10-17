@@ -32,10 +32,10 @@ Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
 
 ## Features:
 
-There are 3 options to choose from:/n
-    1. Decode a message when you know the shift number./n
-    2. Brute force decoding: if you don't know the shift number, the script will attempt all possible shifts for you./n
-    3. Encode a message by providing the desired shift number./n
+There are 3 options to choose from:
+    1. Decode a message when you know the shift number.
+    2. Brute force decoding: if you don't know the shift number, the script will attempt all possible shifts for you.\n
+    3. Encode a message by providing the desired shift number.\n
 
 ## How to Use
 
