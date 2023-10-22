@@ -51,3 +51,8 @@ Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
       The script will then display the encoded or decoded message based on your input.
       
       Thank you for using and testing the script!
+
+## Credits
+
+>This project was inspired by the 'Off-Platform Project: Coded Correspondence' exercise from Codecademy's Learn Python 3 Course.
+
